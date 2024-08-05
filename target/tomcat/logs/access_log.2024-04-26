@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:29 +0530] "GET /login.jsp HTTP/1.1" 200 720 http-bio-8080-exec-1 83
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:29 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:31 +0530] "GET /signUp.jsp HTTP/1.1" 200 1248 http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:33 +0530] "GET /login.jsp HTTP/1.1" 200 720 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:34 +0530] "GET /googleAuth.jsp HTTP/1.1" 200 1631 http-bio-8080-exec-8 17
+0:0:0:0:0:0:0:1 - - [26/Apr/2024:00:30:59 +0530] "GET /googleAuth.jsp HTTP/1.1" 200 1631 http-bio-8080-exec-10 12

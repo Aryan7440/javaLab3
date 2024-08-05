@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:36 +0530] "GET /login.jsp HTTP/1.1" 200 720 http-bio-8080-exec-1 154
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:38 +0530] "GET /googleAuth.jsp HTTP/1.1" 200 1631 http-bio-8080-exec-2 15
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:48 +0530] "POST /GoogleCallbackServlet HTTP/1.1" 302 - http-bio-8080-exec-3 2448
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:48 +0530] "GET /succes.jsp HTTP/1.1" 200 1164 http-bio-8080-exec-4 16
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:51 +0530] "POST /LogoutServlet HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:01:51:51 +0530] "GET /login.jsp HTTP/1.1" 200 720 http-bio-8080-exec-6 16

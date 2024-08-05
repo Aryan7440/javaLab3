@@ -14,7 +14,7 @@
 <title>Servlet OAuth example</title>
 </head>
 <body>
-	<h2>Servlet OAuth example</h2>
+	<h2>Servlet OAuth </h2>
 	<br>
 	<div class="g_id_signin" ></div>
     <div id="g_id_onload"
